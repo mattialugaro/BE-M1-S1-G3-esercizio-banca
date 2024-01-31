@@ -10,7 +10,7 @@ namespace Esercizio_conto
     {
         static void Main(string[] args)
         {
-            
+            // esercizio Conto Corrente
             ContoCorrente cc = new ContoCorrente();
             cc.StartMenu();
             Console.ReadLine();
